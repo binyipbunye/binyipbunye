@@ -1,7 +1,8 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
+widget_id: RECENT-POSTS
 headless: true
+weight: 10
+title: Bin Yipbun Ye · 心理治疗师葉斌
 ---
