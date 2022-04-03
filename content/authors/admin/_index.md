@@ -1,6 +1,6 @@
 ---
 title: Bin Yipbun Ye （葉斌）
-role: Psychotherapist （心理治疗师）
+role: 心理治疗师
 avatar_filename: 微信截图_20220403223341.png
 bio: "I am following Salvador Minuchin's concepts in Family Therapy, and tutored
   by a psychotherapy supervisor (license: D-06-020) as well."
